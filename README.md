@@ -1,36 +1,36 @@
 # To-Do List App
 
-Um aplicativo simples de lista de tarefas desenvolvido com React.
+A simple to-do list app developed with React.
 
-## Funcionalidades
+## Features
 
-- Criação de novas tarefas
-- Remoção de tarefas
-- Alteração de status da tarefa (completa ou incompleta)
-- Filtro por status
-- Ordenação alfabética das tarefas
-- Pesquisa de tarefas
+- Creation of new tasks
+- Removal of tasks
+- Task status change (completed or incomplete)
+- Status filtering
+- Alphabetical sorting of tasks
+- Task search
 
-## Pré-requisitos
+## Prerequisites
 
-Certifique-se de ter o Node.js e o npm (Node Package Manager) instalados em sua máquina.
+Make sure you have Node.js and npm (Node Package Manager) installed on your machine.
 
-## Instalação
+## Installation
 
-1. Clone o repositório para sua máquina local:
+1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/higorabreu/to-do-list.git
-2. Acesse o diretório do projeto:
+2. Navigate to the project directory:
    ```bash
    cd to-do-list
-3. Instale as dependências:
+3. Install dependencies:
    ```bash
    npm install
 
-## Uso
+## Usage
 
-1. Inicie o servidor de desenvolvimento:
+1. Start the development server:
    ```bash
    npm run dev
-2. Abra o navegador e acesse http://localhost:(PORT) para visualizar o aplicativo.
-3. Comece a criar suas tarefas, filtrar por status, pesquisar tarefas e muito mais!
+2. Open your browser and go to http://localhost:(PORT) to view the app.
+3. Begin creating your tasks, filtering by status, searching tasks, and more!
